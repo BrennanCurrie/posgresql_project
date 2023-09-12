@@ -1,5 +1,9 @@
 # posgresql_project
 
+Designed tables to hold the data from CSV files, imported CSV files into a SQL database, and then answered questions about the data.
+
+
+
 Query #1:List the employee number, last name, first name, sex, and salary of each employee.
 
 Query #2:List the first name, last name, and hire date for the employees who were hired in 1986.
