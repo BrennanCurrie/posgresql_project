@@ -1,4 +1,4 @@
-# posgresql_project
+# postgresql_project
 
 Designed tables to hold the data from CSV files, imported CSV files into a SQL database, and then answered questions about the data.
 
